@@ -1,6 +1,9 @@
 {
     "name": "learn-npm-package-json",
     "author": "Sergej Vasiljev",
+    "description": "A working package json",
+    "keywords": [ "freecodecamp", "json", "git" ],
+    "licence": "MIT",
     "dependencies": {
       "express": "^4.14.0"
     },
