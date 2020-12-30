@@ -1,8 +1,2 @@
-{
-    "name": "Free Code Camp",
-    "description": "Testing",
-    "author": "Sergej V",
-    "version": "1.0.0",
-    "main": "pathToMain",
-    "dependencies": {}
-}
+
+"author": "Sergej V",
